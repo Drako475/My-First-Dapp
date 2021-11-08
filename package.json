@@ -22,7 +22,7 @@
     "truffle": "5.0.5",
     "web3": "1.0.0-beta.55"
   },
-  "homepage": "https://Espinoza.github.io/My-First-Dapp",
+  "homepage": "http://Espinoza.github.io/My-First-Dapp",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
